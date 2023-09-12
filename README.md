@@ -1,4 +1,4 @@
-**Welcome area**
+**Welcome Area**
 ```bash
 Hello, everything is fine? Welcome to my profile!
 
@@ -13,7 +13,7 @@ Júnior Silva.
 Node.js, Nest.js, PostgreSQL, Mysql, Next.js, React Native - Expo.
 ```
 
-**Redes sociais**
+**Social media**
 
 [Linkedin](https://www.linkedin.com/in/junior-silva-7483a2102/)  //  [Rocketseat](https://app.rocketseat.com.br/me/junior-silva-1584998136) // [E-mail](2016trabalhosonline@gmail.com)
 
