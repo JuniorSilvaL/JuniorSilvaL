@@ -1,16 +1,23 @@
-### Hi there 👋
+**Welcome area**
+```bash
+Hello, everything is fine? Welcome to my profile!
 
-<!--
-**JuniorSilvaL/JuniorSilvaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to explore my projects and social networks, 
+and stay updated on the technologies I am currently studying and monitoring.
+ 
+Best regards,
+Júnior Silva.
+```
+**Technologies**
+```bash
+Node.js, Nest.js, PostgreSQL, Mysql, Next.js, React Native - Expo.
+```
 
-Here are some ideas to get you started:
+**Redes sociais**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Linkedin](https://www.linkedin.com/in/junior-silva-7483a2102/)  //  [Rocketseat](https://app.rocketseat.com.br/me/junior-silva-1584998136) // [E-mail](2016trabalhosonline@gmail.com)
+
+
+![Github Followers](https://img.shields.io/github/followers/JuniorSilvaL?label=Followers&logo=GitHub&style=for-the-badge)
+
+![](https://komarev.com/ghpvc/?username=JuniorSilvaL) 
