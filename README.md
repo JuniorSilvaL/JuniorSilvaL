@@ -10,7 +10,7 @@ Júnior Silva.
 ```
 **Technologies**
 ```bash
-Node.js, Nest.js, PostgreSQL, Mysql, Next.js, React Native - Expo.
+Node.js, Nestjs, PostgreSQL, Mysql, Next.js, React Native - Expo.
 ```
 
 **Social media**
